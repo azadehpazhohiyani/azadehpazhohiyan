@@ -10,8 +10,7 @@ const azadeh = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React],
- 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
