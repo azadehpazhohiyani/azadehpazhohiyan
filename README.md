@@ -8,7 +8,7 @@
 ```javascript
 const azadeh = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS,Bootstrap],
   tools: [React],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
